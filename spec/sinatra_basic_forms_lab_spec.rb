@@ -39,7 +39,7 @@ describe App do
     end
   end
 
-  describe 'POST /puppy' do
+  describe 'POST /' do
 
     before(:all) do
       visit '/new'
